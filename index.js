@@ -1,5 +1,5 @@
-import https from 'https';
-import axios from 'axios';
+const https = require('https');
+const axios = require('axios');
 
 const urlPrefix = 'https://';
 const urlSuffix = '/api/v2';

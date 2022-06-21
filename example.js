@@ -1,4 +1,4 @@
-import GiraX1RestClient from './lib/gira-x1-rest-client';
+const GiraX1RestClient = require('./lib/gira-x1-rest-client');
 
 (async () => {
   try {
