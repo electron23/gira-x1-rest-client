@@ -1,6 +1,6 @@
 {
   "name": "gira-x1-rest-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple gira x1 api client based on nodejs",
   "main": "index.js",
   "scripts": {},
