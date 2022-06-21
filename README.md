@@ -4,6 +4,6 @@ Simple nodejs based REST API client for GIRA X1 smarthome server
 
 ## Changelog
 
-### 2.0.3 (2022-06-02)
+### 1.0.2 (2022-06-21)
 
 - First commit
